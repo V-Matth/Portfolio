@@ -133,7 +133,7 @@ Pour ça, il faudra représenter des indicateurs relatifs à nos 3 domaines d'ex
 * Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée.
 * Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible.
 
-## [Projet 9 : Analysez les ventes d'une librairie avec Python](./P9_Analysez_vente_librairie_Python/)
+## [Projet 9 : Analysez les ventes d'une librairie avec Python](./P09_Analysez_vente_librairie_Python/)
 
 ### &#127891; Compétences acquises
 * Analyser des indicateurs et des corrélations.
@@ -157,7 +157,7 @@ Cette analyse va être découpée en deux parties :
 * Analyser un jeu de données avec séries temporelles pour mesurer un phénomène statistique.
 * Réaliser des tests statistiques sur des données afin de tester et valider des hypothèses.
 
-## [Projet 8 : Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD avec Knime](./P8_Analysez_egalite_femme_homme_RGPD_KNIME/)
+## [Projet 8 : Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD avec Knime](./P08_Analysez_egalite_femme_homme_RGPD_KNIME/)
 
 ### &#127891; Compétences acquises
 * Approfondir ses compétences méthodologiques grâce au workflow *[Knime](https://www.knime.com/)*.
@@ -180,7 +180,7 @@ Nous nous baserons sur les données issues du SIRH non anonymisées. Il faudra l
 * Collecter des données pertinentes en respect des normes et bonnes pratiques.
 * Vérifier la cohérence et la fiabilité des données préparées.
 
-## [Projet 7 : Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](./P7_Visualisez_avancement_projets_PowerBI/)
+## [Projet 7 : Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](./P07_Visualisez_avancement_projets_PowerBI/)
 
 ### &#127891; Compétences acquises
 * Identifier les enjeux du client.
@@ -201,7 +201,7 @@ Après avoir établi le Product Strategy Canvas sur la base de la note de cadrag
 ### &#127919; Objectifs
 * Produire un reporting en analysant les visualisations pour faciliter les décisions.
 
-## [Projet 6 : Optimisez la gestion des données d'une boutique avec Python](./P6_Optimisez_gestion_donnees_boutique_Python/)
+## [Projet 6 : Optimisez la gestion des données d'une boutique avec Python](./P06_Optimisez_gestion_donnees_boutique_Python/)
 
 ### &#127891; Compétences acquises
 * Utiliser différentes librairies de Python.
@@ -224,7 +224,7 @@ Notre mission se décomposera en 3 phases :
 * Pré-traiter des données pour explorer et comprendre leurs caractéristiques.
 * Traiter, nettoyer des données et définir la gestion des incohérences en conformité du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
 
-## [Projet 5 : Créez et utilisez une base de données immobilières avec SQL](./P5_utilisez_BDD_immo_SQL/)
+## [Projet 5 : Créez et utilisez une base de données immobilières avec SQL](./P05_utilisez_BDD_immo_SQL/)
 
 ### &#127891; Compétences acquises
 * Approfondir ses compétences en création de bases de données,
@@ -246,7 +246,7 @@ puis après validation :
 * Effectuer des requêtes SQL pour répondre à une problématique métier en respect du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
 * Gérer une base de données établissant des requêtes et en respect du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
 
-## [Projet 4 : Réalisez une étude de santé publique avec Python](./P4_Etude_sante_publique_Python/)
+## [Projet 4 : Réalisez une étude de santé publique avec Python](./P04_Etude_sante_publique_Python/)
 
 ### &#127891; Compétences acquises
 * Utiliser un langage de programmation comme Python.
@@ -263,7 +263,7 @@ Notre mission consiste à :
 ### &#127919; Objectifs
 * Explorer et analyser des données en utilisant des langages et outils métiers.
 
-## [Projet 3 : Requêtez une base de données avec SQL](.P3_Requetez_BDD_SQL)
+## [Projet 3 : Requêtez une base de données avec SQL](./P03_Requetez_BDD_SQL/)
 
 ### &#127891; Compétences acquises
 * Découvrir la création et la gestion de bases de données.
