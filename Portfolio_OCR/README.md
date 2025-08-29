@@ -40,9 +40,15 @@ Retrouvez-y l'ensemble des éléments qui ont construit mon parcours et l'ensemb
 
 ## [Projet 13 : Créez votre portfolio de professionnel de la data](./P13_Aeroworld/)
 
-### &#127891; Compétences acquises
-* Gérer un projet.
-* Mettre ses compétences en valeur.
+### &#127919; Objectifs
+* Accompagner les équipes sur la prise en main des outils.
+* Adapter sa posture de professionnel en se positionnant comme consultant.
+* Effectuer une veille métier et technologique.
+* Expérimenter de nouvelles méthodes d'analyse de données à travers des recherches.
+* Formaliser les procédures de documentation pour assurer une gestion fiable.
+* Formaliser un cahier des charges fonctionnel pour cadrer les besoins et les solutions.
+* Identifier les besoins métier en intégrant les différentes contraintes.
+* Organiser un projet d'analyse data grâce à des outils de gestion de projet.
 
 ### &#128203; Scénario
 En tant qu'expert data chez **ESN**, une mission avec le profil de data analyst chef de projet expérimenté vous est proposée dans une entreprise spécalisée dans l'aéronautique.  
@@ -55,22 +61,15 @@ Cette entreprise **Aéroworld** souhaite analyser les portfolios des candidats a
 * Formaliser les procédures de documentation pour assurer une gestion fiable
 * Adapter sa posture de professionnel en se positionnant comme consultant afin de challenger les besoins et répondre à la demande  
 
-### &#127919; Objectifs
-* Accompagner les équipes sur la prise en main des outils.
-* Adapter sa posture de professionnel en se positionnant comme consultant.
-* Effectuer une veille métier et technologique.
-* Expérimenter de nouvelles méthodes d'analyse de données à travers des recherches.
-* Formaliser les procédures de documentation pour assurer une gestion fiable.
-* Formaliser un cahier des charges fonctionnel pour cadrer les besoins et les solutions.
-* Identifier les besoins métier en intégrant les différentes contraintes.
-* Organiser un projet d'analyse data grâce à des outils de gestion de projet.
+### &#127891; Compétences acquises
+* Gérer un projet.
+* Mettre ses compétences en valeur.
 
 ## [Projet 12 : Détectez des faux billets avec Python](./P12_Detectez_faux_billets_Python_machine_learning/)
 
-### &#127891; Compétences acquises
-* Découvrir de nombreuses notions en modélisation.
-* Apprendre à créer un algorithme.
-* Comparer différents modèles d'apprentissage supervisés et non supervisés.
+### &#127919; Objectifs
+* Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène.
+* Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle.
 
 ### &#128203; Scénario
 En tant que senior data analyst auprès de **ONCFM** (*Organisation nationale de lutte contre le faux-monnayage*), nous avons pour mission de mettre en place différents algorithmes de détection  
@@ -80,11 +79,24 @@ des faux billets basés sur les données géométriques des billets. Après avoi
 * KNN
 * Random Forest
 
-### &#127919; Objectifs
-* Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène.
-* Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle.
+### &#127891; Compétences acquises
+* Découvrir de nombreuses notions en modélisation.
+* Apprendre à créer un algorithme.
+* Comparer différents modèles d'apprentissage supervisés et non supervisés.
   
 ## [Projet 11 : Produisez une étude de marché avec Python](./P11_Etude_marche_poulet_Python_clustering/)
+
+### &#127919; Objectifs
+* Exploiter un modèle d'apprentissage afin d'en apprendre davantage sur les données.
+* Réaliser des analyses multivariées pour comprendre la corrélation entre les variables.
+* Réduire la dimension du jeu de données pour optimiser le temps d'apprentissage des modèles.
+* Sélectionner les variables pertinentes d'un modèle d'apprentissage.
+
+### &#128203; Scénario
+Nous sommes en poste chez **La poule qui chante**, une entreprise française d’agroalimentaire. Son activité principale est l’élevage et la vente de poulets sous le label “Poulet Agriculture Biologique”. 
+Son activité actuelle est franco-française mais Patrick, le PDG de l’entreprise souhaite évaluer la possibilité de se développer à l'international.  
+Notre mission sera de proposer une analyse des groupements de pays que l’on peut cibler pour exporter les poulets. Nous approfondirons ensuite l'étude de marché.  
+Pour la partie analytique, nous réaliserons une ACP avec réductions des dimensions et un clustering (dans un notebook séparé de l’exploration des données).
 
 ### &#127891; Compétences acquises
 * Travailler de façon itérative.
@@ -93,26 +105,12 @@ des faux billets basés sur les données géométriques des billets. Après avoi
 * Adapter son discours à un auditoire non technique.
 * Effectuer des recommandations stratégiques.
 
-### &#128203; Scénario
-Nous sommes en poste chez **La poule qui chante**, une entreprise française d’agroalimentaire. Son activité principale est l’élevage et la vente de poulets sous le label “Poulet Agriculture Biologique”. 
-Son activité actuelle est franco-française mais Patrick, le PDG de l’entreprise souhaite évaluer la possibilité de se développer à l'international.  
-Notre mission sera de proposer une analyse des groupements de pays que l’on peut cibler pour exporter les poulets. Nous approfondirons ensuite l'étude de marché.  
-Pour la partie analytique, nous réaliserons une ACP avec réductions des dimensions et un clustering (dans un notebook séparé de l’exploration des données).
-
-### &#127919; Objectifs
-* Exploiter un modèle d'apprentissage afin d'en apprendre davantage sur les données.
-* Réaliser des analyses multivariées pour comprendre la corrélation entre les variables.
-* Réduire la dimension du jeu de données pour optimiser le temps d'apprentissage des modèles.
-* Sélectionner les variables pertinentes d'un modèle d'apprentissage.
-
 ## [Projet 10 : Faîtes une étude sur l'eau potable avec Power BI](./P10_Etude_eau_potable_PowerBI/)
 
-### &#127891; Compétences acquises
-* La prise en compte des enjeux contextuels / de la démarche de datavisualisation.
-* La recherche de données pertinentes.
-* Le prétraitement et la manipulation des données avec un outil adapté.
-* Les bonnes pratiques en termes de data visualisation / data storytelling.
-* La pratique et la maîtrise concrète d'un outil de data visualisation.
+### &#127919; Objectifs
+* Proposer un récit des résultats dynamique pour engager un public.
+* Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée.
+* Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible.
 
 ### &#128203; Scénario
 Nous sommes consultant data analyst en mission dans l’**ONG DWFA (Drinking Water For All)** ; elle a pour ambition de donner accès à l’eau potable à tout le monde.  
@@ -128,18 +126,19 @@ Notre mission sera de concervoir un tableau de bord pour :
 
 Pour ça, il faudra représenter des indicateurs relatifs à nos 3 domaines d'expertise. 
 
-### &#127919; Objectifs
-* Proposer un récit des résultats dynamique pour engager un public.
-* Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée.
-* Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible.
+### &#127891; Compétences acquises
+* La prise en compte des enjeux contextuels / de la démarche de datavisualisation.
+* La recherche de données pertinentes.
+* Le prétraitement et la manipulation des données avec un outil adapté.
+* Les bonnes pratiques en termes de data visualisation / data storytelling.
+* La pratique et la maîtrise concrète d'un outil de data visualisation.
 
 ## [Projet 9 : Analysez les ventes d'une librairie avec Python](./P09_Analysez_vente_librairie_Python/)
 
-### &#127891; Compétences acquises
-* Analyser des indicateurs et des corrélations.
-* Réaliser des statistiques descriptives.
-* Utiliser les différentes librairies de Python pour générer nos propres graphiques  
-  afin de synthétiser l'information présentée.
+### &#127919; Objectifs
+* Analyser un jeu de données avec séries temporelles pour mesurer un phénomène statistique.
+* Réaliser des tests statistiques sur des données afin de tester et valider des hypothèses.
+
 
 ### &#128203; Scénario
 Nous intervenons en tant que Data Analyst au sein de l'entreprise **Lapage** qui était originellement une librairie physique avec plusieurs points de vente.  
@@ -153,16 +152,18 @@ Cette analyse va être découpée en deux parties :
 * Une analyse plus ciblée sur les clients : l’objectif est de comprendre le comportement de nos clients en ligne, pour pouvoir ensuite comparer avec la connaissance
   acquise via nos librairies physiques.
 
-### &#127919; Objectifs
-* Analyser un jeu de données avec séries temporelles pour mesurer un phénomène statistique.
-* Réaliser des tests statistiques sur des données afin de tester et valider des hypothèses.
+### &#127891; Compétences acquises
+* Analyser des indicateurs et des corrélations.
+* Réaliser des statistiques descriptives.
+* Utiliser les différentes librairies de Python pour générer nos propres graphiques  
+  afin de synthétiser l'information présentée.
 
 ## [Projet 8 : Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD avec Knime](./P08_Analysez_egalite_femme_homme_RGPD_KNIME/)
 
-### &#127891; Compétences acquises
-* Approfondir ses compétences méthodologiques grâce au workflow *[Knime](https://www.knime.com/)*.
-* Travailler spécifiquement sur la manière de récolter les données.
-* Utiliser Knime.
+### &#127919; Objectifs
+* Agréger des extractions de données en définissant les règles de nettoyage.
+* Collecter des données pertinentes en respect des normes et bonnes pratiques.
+* Vérifier la cohérence et la fiabilité des données préparées.
 
 ### &#128203; Scénario
 Nous sommes data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises qui compte déjà plus de 150 salariés et est en plein développement.    
@@ -175,18 +176,15 @@ Notre mission est de préparer :
 
 Nous nous baserons sur les données issues du SIRH non anonymisées. Il faudra les traiter en respect du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
 
-### &#127919; Objectifs
-* Agréger des extractions de données en définissant les règles de nettoyage.
-* Collecter des données pertinentes en respect des normes et bonnes pratiques.
-* Vérifier la cohérence et la fiabilité des données préparées.
+### &#127891; Compétences acquises
+* Approfondir ses compétences méthodologiques grâce au workflow *[Knime](https://www.knime.com/)*.
+* Travailler spécifiquement sur la manière de récolter les données.
+* Utiliser Knime.
 
 ## [Projet 7 : Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](./P07_Visualisez_avancement_projets_PowerBI/)
 
-### &#127891; Compétences acquises
-* Identifier les enjeux du client.
-* Collecter les user stories.
-* Prépararer et transformer les données.
-* Développer des visualisations et les présenter au client.
+### &#127919; Objectifs
+* Produire un reporting en analysant les visualisations pour faciliter les décisions.
 
 ### &#128203; Scénario
 En tant que consultant Data Analyst chez **ESN Data**, nous sommes déployé chez notre client Sanitoral pour réaliser une mission de visualisation de données.
@@ -198,17 +196,19 @@ La cheffe de projet chez Sanitoral a besoin d'un tableau de bord pour :
 
 Après avoir établi le Product Strategy Canvas sur la base de la note de cadrage, nous pouvons réaliser notre mission selon les besoins de la cheffe de projet.
 
-### &#127919; Objectifs
-* Produire un reporting en analysant les visualisations pour faciliter les décisions.
+### &#127891; Compétences acquises
+* Identifier les enjeux du client.
+* Collecter les user stories.
+* Prépararer et transformer les données.
+* Développer des visualisations et les présenter au client.
+
 
 ## [Projet 6 : Optimisez la gestion des données d'une boutique avec Python](./P06_Optimisez_gestion_donnees_boutique_Python/)
 
-### &#127891; Compétences acquises
-* Utiliser différentes librairies de Python.
-* Effectuer des analyses exploratoires de fichiers.
-* Travailler avec un notebook.
-* Effectuer des jonctions de fichiers.
-* Effectuer des analyses univariées.
+### &#127919; Objectifs
+* Effectuer des analyses univariées et multivariées des données pré-traitées.
+* Pré-traiter des données pour explorer et comprendre leurs caractéristiques.
+* Traiter, nettoyer des données et définir la gestion des incohérences en conformité du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
 
 ### &#128203; Scénario
 Nous venons de commencer notre mission en tant qu'analyste chez **BottleNeck**, un marchand de vin prestigieux.  
@@ -219,16 +219,19 @@ Notre mission se décomposera en 3 phases :
 * Phase 2 : Analyser les données pour le CODIR.
 * Phase 3 : Savoir s'il y a une corrélation entre certaines données quantitatives (prix, prix d’achat, stock, ventes, prix HT et taux de marge, etc.).
 
-### &#127919; Objectifs
-* Effectuer des analyses univariées et multivariées des données pré-traitées.
-* Pré-traiter des données pour explorer et comprendre leurs caractéristiques.
-* Traiter, nettoyer des données et définir la gestion des incohérences en conformité du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
+### &#127891; Compétences acquises
+* Utiliser différentes librairies de Python.
+* Effectuer des analyses exploratoires de fichiers.
+* Travailler avec un notebook.
+* Effectuer des jonctions de fichiers.
+* Effectuer des analyses univariées.
 
 ## [Projet 5 : Créez et utilisez une base de données immobilières avec SQL](./P05_utilisez_BDD_immo_SQL/)
 
-### &#127891; Compétences acquises
-* Approfondir ses compétences en création de bases de données,
-  importation de données et requêtage SQL
+### &#127919; Objectifs
+* Créer une base de données en respect des normes réglementaires et des besoins clients.
+* Effectuer des requêtes SQL pour répondre à une problématique métier en respect du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
+* Gérer une base de données établissant des requêtes et en respect du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
 
 ### &#128203; Scénario
 Nous sommes Data Analyst chez **Laplace Immo**, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données.  
@@ -241,16 +244,14 @@ Notre mission consiste à :
 puis après validation :
 * Requêter notre BDD SQL pour répondre aux besoins en analyse des données, selon le compte-rendu de réunion de validation.
 
-### &#127919; Objectifs
-* Créer une base de données en respect des normes réglementaires et des besoins clients.
-* Effectuer des requêtes SQL pour répondre à une problématique métier en respect du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
-* Gérer une base de données établissant des requêtes et en respect du *[RGPD](https://www.cnil.fr/fr/cnil-direct/question/quels-sont-les-grands-principes-des-regles-de-protection-des-donnees?visiteur=part)*.
+### &#127891; Compétences acquises
+* Approfondir ses compétences en création de bases de données,
+  importation de données et requêtage SQL
 
 ## [Projet 4 : Réalisez une étude de santé publique avec Python](./P04_Etude_sante_publique_Python/)
 
-### &#127891; Compétences acquises
-* Utiliser un langage de programmation comme Python.
-* Apprendre à travailler avec un Notebook.
+### &#127919; Objectifs
+* Explorer et analyser des données en utilisant des langages et outils métiers.
   
 ### &#128203; Scénario
 Nous venons d'intégrer la **[Food and Agriculture Organization of the United Nations (FAO)](https://www.fao.org/home/fr/)** en tant que Data Analyst.  
@@ -260,19 +261,20 @@ Les données de 2018 à maintenant ont déjà été traitées par notre prédéc
 Notre mission consiste à :  
 * Compléter les analyses à réaliser pour la partie "historique" avec les données allant de 2013 à 2017.
 
-### &#127919; Objectifs
-* Explorer et analyser des données en utilisant des langages et outils métiers.
+### &#127891; Compétences acquises
+* Utiliser un langage de programmation comme Python.
+* Apprendre à travailler avec un Notebook.
 
 ## [Projet 3 : Requêtez une base de données avec SQL](./P03_Requetez_BDD_SQL/)
-
-### &#127891; Compétences acquises
-* Découvrir la création et la gestion de bases de données.
-* Acquisition des fondamentaux du métier de *Data Analyst*.
-  
-### &#128203; Scénario
-Ce projet n'est pas scénarisé, il s'agit uniquement d'exercices d'entraînement.
 
 ### &#127919; Objectifs
 * Charger des données dans une base de données.
 * Créer un shéma d'une base de données.
 * Rédiger des scripts simples en SQL pour aider à la prise de décision business.
+  
+### &#128203; Scénario
+Ce projet n'est pas scénarisé, il s'agit uniquement d'exercices d'entraînement.
+
+### &#127891; Compétences acquises
+* Découvrir la création et la gestion de bases de données.
+* Acquisition des fondamentaux du métier de *Data Analyst*.
