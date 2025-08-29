@@ -1,16 +1,16 @@
 # Mon Portfolio de Data Analyst, Matthieu Verclytte
 
 Ce portfolio a vocation à présenter mon profil de Data Analyst  
-et les compétences acquises au cours de ma formation sur le parcours *[Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst)* de OpenClassrooms.
+et les compétences acquises au cours de ma formation sur le parcours *[Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst)* de OpenClassrooms.  
 
-## Présentation de mon profil :
-[![](https://github.com/V-Matth/Portfolio/blob/main/Portfolio_OCR/Images/Image_P13_Dashboard_Profil.PNG)](https://github.com/V-Matth/Portfolio/blob/main/Portfolio_OCR/P13_Aeroworld/P13_4_Dashboard_Profil.pdf)
-
-
-La **Candidature au poste de Chef de Projet Data Analyst au sein de l'entreprise Aeroworld**,  
+La **Candidature au poste de Chef de Projet Data Analyst au sein de l'entreprise Aeroworld** du [Projet 13 ](./P13_Aeroworld/),  
 ainsi que les **livrables des projets de la formation** sont disponibles dans ce portfolio.  
 
 Retrouvez-y l'ensemble des éléments qui ont construit mon parcours et l'ensemble de mes compétences de Data Analyst :
+
+## Présentation de mon profil :
+[![](https://github.com/V-Matth/Portfolio/blob/main/Portfolio_OCR/Images/Image_P13_Dashboard_Profil.PNG)](https://github.com/V-Matth/Portfolio/blob/main/Portfolio_OCR/P13_Aeroworld/P13_4_Dashboard_Profil.pdf)
+[Mon profil](https://github.com/V-Matth/Portfolio/blob/main/Portfolio_OCR/P13_Aeroworld/P13_4_Dashboard_Profil.pdf)
 
 ## 🔧 Langages, Outils et Librairies utilisés sur les différents projets du parcours :
 
