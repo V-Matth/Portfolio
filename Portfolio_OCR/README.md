@@ -3,7 +3,7 @@
 Ce portfolio a vocation à présenter mon profil de Data Analyst  
 et les compétences acquises au cours de ma formation sur le parcours *[Data Analyst](https://openclassrooms.com/fr/paths/1040-data-analyst)* de OpenClassrooms.  
 
-La **Candidature au poste de Chef de Projet Data Analyst au sein de l'entreprise Aeroworld** du [Projet 13 ](./P13_Aeroworld/),  
+Les [présentations en pdf de mes projets](./P00_Projets_en_PDF/),  
 ainsi que les **livrables des projets de la formation** sont disponibles dans ce portfolio.  
 
 Retrouvez-y l'ensemble des éléments qui ont construit mon parcours et l'ensemble de mes compétences de Data Analyst :
@@ -37,6 +37,7 @@ Retrouvez-y l'ensemble des éléments qui ont construit mon parcours et l'ensemb
 
 
 ## LES PROJETS :
+Apperçu : [Toutes les présentations de projets en pdf](./P00_Projets_en_PDF/)
 
 ## [Projet 13 : Créez votre portfolio de professionnel de la data](./P13_Aeroworld/)
 
